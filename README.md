@@ -10,11 +10,6 @@ I'm learning Machine Learning from scratch.
 - Matplotlib
 - Scikit-learn
 - Data Visualization
+- simple linear regression
+- logistic regression
 - Machine Learning Algorithms
-
-## Progress
-
-- ✅ Day 1 - Python
-- ✅ Day 2 - NumPy
-- ✅ Day 3 - Pandas
-- ⏳ Day 4 - Matplotlib
